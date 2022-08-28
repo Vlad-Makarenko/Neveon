@@ -1,0 +1,87 @@
+.FormInput {
+  background-color: transparent;
+  border: 1px solid white;
+  padding: 3%;
+  color: white;
+}
+
+.formText {
+  color: white;
+}
+
+.rootLink {
+  text-decoration: none;
+  color: #f39b14;
+}
+
+.rootLink:hover {
+  color: #ffbe5d;
+}
+
+.FormInput input {
+  border: 0;
+  background-color: transparent;
+  color: white;
+}
+
+.OrderInput {
+  width: 60%;
+  background-color: transparent;
+  border: 1px solid black;
+  padding: 3%;
+  border-radius: 5px;
+}
+
+.OrderInput input {
+  border: 0;
+}
+
+.OrderInput input:focus {
+  border: 0;
+  outline: none;
+}
+
+.OformText {
+  width: 60%;
+}
+
+.orderSubmitBtn {
+  transition: all 0.4s ease;
+  width: 60%;
+  padding: 3%;
+  background: linear-gradient(95.94deg, #f19217 17.38%, #ea611b 105.13%);
+  font-size: 20px;
+  color: white;
+  font-weight: 600;
+  letter-spacing: 2px;
+  border: 0;
+  border-radius: 5px;
+}
+
+.orderSubmitBtn:enabled:hover {
+  transition: all 0.4s ease;
+  box-shadow: 1px 1px 30px rgba(142, 74, 2, 0.5);
+  animation: none;
+  border-radius: 100px;
+}
+.orderSubmitBtn:enabled {
+  animation: activeBtn 1.5s infinite;
+}
+
+@keyframes activeBtn {
+  0% {
+    box-shadow: 0px 0px 0px rgba(198, 103, 1, 0);
+  }
+  25% {
+    box-shadow: 1px 1px 30px rgba(198, 103, 1, 0.25);
+  }
+  50% {
+    box-shadow: 1px 1px 30px rgba(198, 103, 1, 0.5);
+  }
+  75% {
+    box-shadow: 1px 1px 30px rgba(198, 103, 1, 0.25);
+  }
+  100% {
+    box-shadow: 0px 0px 0px rgba(198, 103, 1, 0);
+  }
+}

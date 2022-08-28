@@ -1,0 +1,14 @@
+.hDevider {
+  margin-top: 100px;
+  border-top: 3px solid black;
+  width: 100%;
+}
+
+.footerLink {
+  text-decoration: none;
+  color: black;
+}
+
+.footerLink:hover {
+  color: #f39b14;
+}
