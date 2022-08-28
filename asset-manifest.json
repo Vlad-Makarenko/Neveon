@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Neveon/static/css/main.25ea3956.css",
+    "main.js": "/Neveon/static/js/main.5b8a4205.js",
+    "static/media/desc.png": "/Neveon/static/media/desc.7431f07c557832a97e76.png",
+    "static/media/mask.png": "/Neveon/static/media/mask.a6265c9508e047e42a3f.png",
+    "static/media/description.png": "/Neveon/static/media/description.19c7eebb1e5b77ac3847.png",
+    "static/media/item1.png": "/Neveon/static/media/item1.efeeed46b297edd7b57d.png",
+    "static/media/item4.png": "/Neveon/static/media/item4.2b2aff25f4c768511d4c.png",
+    "static/media/item2.png": "/Neveon/static/media/item2.460f12e0fe624f5119f2.png",
+    "static/media/item5.png": "/Neveon/static/media/item5.fd0ac80613afd0f0bc4d.png",
+    "static/media/item6.png": "/Neveon/static/media/item6.1efeff31137832756d5f.png",
+    "static/media/item3.png": "/Neveon/static/media/item3.51df1bf3bdb7f0f198ee.png",
+    "index.html": "/Neveon/index.html",
+    "main.25ea3956.css.map": "/Neveon/static/css/main.25ea3956.css.map",
+    "main.5b8a4205.js.map": "/Neveon/static/js/main.5b8a4205.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25ea3956.css",
+    "static/js/main.5b8a4205.js"
+  ]
+}
