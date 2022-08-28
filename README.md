@@ -1,6 +1,14 @@
 <h1>Neveon</h1>
 
 <p>This project was completed as a term paper for NIX-FE practice</p>
+
+<h2>Source repository</h2>
+<p>This repository was created for deploying <a href="https://github.com/Vlad-Makarenko/NIX-FE-Practice/tree/main/neveon" target="_blank"> my project</a> to GitHub Pages</p>
+<p>Link to: <a href="https://github.com/Vlad-Makarenko/NIX-FE-Practice/tree/main/neveon" target="_blank"> source repository</a></p>
+
+<h2>Demo</h2>
+<p><a href="https://Vlad-Makarenko.github.io/Neveon" target="_blank"> vlad-makarenko.github.io/Neveon </a></p>
+
 <h2>General Information</h2>
 
 The project was created according to the <a href="https://www.figma.com/file/2dgzDGiZSR7Q1S5VVMev98/Practice-Project-3" target="_blank"> given layout </a>
